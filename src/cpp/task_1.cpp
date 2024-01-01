@@ -1,7 +1,6 @@
 /*
- * Author:
- * Date:
- * Name:
+ * Date: 01/01/2024
+ * Name: Muhammad Umar Toshpo'latov
  */
 
 #include <iostream>
